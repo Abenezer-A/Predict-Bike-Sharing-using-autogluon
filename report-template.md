@@ -47,11 +47,11 @@ The model performed 73.54% better after trying different hyperparameters.
 |hpo|num_boost_round|learning_rate|scheduler|0.47712|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
-![image](https://github.com/Abenezer-A/Predict-Bike-Sharing-using-autogluon/assets/84628709/8c7f8025-406d-46a5-81e5-a7bda8e68627)
+
+![image](https://github.com/Abenezer-A/Predict-Bike-Sharing-using-autogluon/assets/84628709/184ba828-010c-4b6a-a21d-e6399d78f790)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
-
-![model_test_score.png](img/model_test_score.png)
+![image](https://github.com/Abenezer-A/Predict-Bike-Sharing-using-autogluon/assets/84628709/8c7f8025-406d-46a5-81e5-a7bda8e68627)
 
 ## Summary
 Overall, the code provides a comprehensive workflow for training and evaluating a model for bike-sharing demand prediction using AutoGluon, including data preparation, feature engineering, hyperparameter optimization, and submission to Kaggle.
