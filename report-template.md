@@ -47,8 +47,7 @@ The model performed 73.54% better after trying different hyperparameters.
 |hpo|num_boost_round|learning_rate|scheduler|0.47712|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
-
-![model_train_score.png](img/model_train_score.png)
+![image](https://github.com/Abenezer-A/Predict-Bike-Sharing-using-autogluon/assets/84628709/8c7f8025-406d-46a5-81e5-a7bda8e68627)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
